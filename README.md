@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaber-sb&show_icons=true&locale=en&layout=compact" alt="jaber-sb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaber-sb&show_icons=true&locale=en" alt="jaber-sb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaber-sb&" alt="jaber-sb" /></p>
